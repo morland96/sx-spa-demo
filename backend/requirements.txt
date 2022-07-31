@@ -5,3 +5,5 @@ flask_cors==3.0.10
 bcrypt==3.2.2
 flask_jwt_extended==4.4.2
 boto3==1.24.36
+werkzeug==2.1.2
+python-dotenv==0.20.0
